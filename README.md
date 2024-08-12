@@ -6,7 +6,7 @@ The objective of this project is to analyze U.S. bank loan data to uncover trend
 
 ## Tools Used
 
-- **SQL**: For data preparation, cleaning, and manipulation.
+- **MS SQL Server**: For data preparation, cleaning, and manipulation.
 - **Tableau**: For creating interactive visualizations and dashboards.
 
 ## Key Performance Indicators (KPIs)
